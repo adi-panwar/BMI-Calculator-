@@ -1,0 +1,27 @@
+{
+    "rahul": [
+        {
+            "date": "2025-10-14 19:55:44",
+            "weight": 55.0,
+            "height": 140.0,
+            "bmi": 28.06,
+            "category": "Overweight"
+        }
+    ],
+    "adi": [
+        {
+            "date": "2025-10-14 20:00:29",
+            "weight": 60.0,
+            "height": 180.0,
+            "bmi": 18.52,
+            "category": "Normal weight"
+        },
+        {
+            "date": "2025-10-14 20:00:48",
+            "weight": 66.0,
+            "height": 180.0,
+            "bmi": 20.37,
+            "category": "Normal weight"
+        }
+    ]
+}
